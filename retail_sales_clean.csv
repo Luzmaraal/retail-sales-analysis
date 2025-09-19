@@ -1,0 +1,251 @@
+order_id,order_date,customer_id,region,product_category,product_name,quantity,unit_price,payment_type
+2001,2023-04-13,18,East,Electronics,Laptop,2,191,Gift Card
+2002,2023-12-15,40,North,Electronics,Laptop,4,478,PayPal
+2003,2023-09-28,1,West,Clothing,Jeans,3,407,Gift Card
+2004,2023-04-17,11,North,Home,Vacuum,4,232,PayPal
+2005,2023-03-13,28,North,Sports,Yoga Mat,1,320,Gift Card
+2006,2023-07-08,57,South,Sports,Yoga Mat,4,441,Credit Card
+2007,2023-01-21,25,South,Electronics,Headphones,1,475,PayPal
+2008,2023-04-13,50,North,Electronics,Headphones,4,16,Gift Card
+2009,2023-05-02,23,East,Clothing,Jeans,1,339,Gift Card
+2010,2023-08-03,31,South,Sports,Football,2,272,Credit Card
+2011,2023-11-27,30,West,Electronics,Smartphone,5,170,PayPal
+2012,2023-03-29,42,South,Home,Vacuum,3,160,Gift Card
+2013,2023-04-10,35,South,Home,Blender,4,94,Credit Card
+2014,2023-12-26,7,West,Electronics,Tablet,5,156,Gift Card
+2015,2023-06-01,60,North,Electronics,Headphones,3,121,PayPal
+2016,2023-05-11,16,West,Sports,Football,3,390,Gift Card
+2017,2023-05-30,26,North,Sports,Tennis Racket,1,412,Gift Card
+2018,2023-11-05,48,North,Clothing,Jacket,2,45,Gift Card
+2019,2023-09-15,57,North,Sports,Tennis Racket,2,294,Gift Card
+2020,2023-12-10,52,West,Home,Lamp,5,197,Credit Card
+2021,2023-10-21,60,North,Home,Blender,2,91,Credit Card
+2022,2023-07-11,49,East,Electronics,Smartphone,4,11,PayPal
+2023,2023-10-04,2,West,Sports,Basketball,2,394,Credit Card
+2024,2023-06-10,1,East,Clothing,Sneakers,5,312,Credit Card
+2025,2023-11-10,48,North,Home,Vacuum,2,206,PayPal
+2026,2023-01-22,12,South,Home,Chair,4,413,Credit Card
+2027,2023-09-10,5,North,Clothing,T-Shirt,1,20,Credit Card
+2028,2023-08-24,37,East,Clothing,Jeans,5,243,PayPal
+2029,2023-12-11,32,East,Home,Blender,1,395,PayPal
+2030,2023-02-18,59,West,Home,Chair,1,204,PayPal
+2031,2023-02-28,55,South,Clothing,Sneakers,1,480,Gift Card
+2032,2023-06-19,9,West,Home,Chair,3,128,Gift Card
+2033,2023-07-07,41,East,Electronics,Smartphone,3,405,PayPal
+2034,2023-09-28,35,North,Electronics,Laptop,1,29,PayPal
+2035,2023-07-09,19,South,Clothing,Jeans,5,270,PayPal
+2036,2023-06-24,48,North,Sports,Basketball,4,302,Gift Card
+2037,2023-02-20,16,North,Clothing,Jeans,4,431,Gift Card
+2038,2023-12-30,3,South,Clothing,T-Shirt,2,265,Credit Card
+2039,2023-02-24,20,West,Sports,Tennis Racket,5,231,Credit Card
+2040,2023-09-01,24,North,Sports,Yoga Mat,3,402,PayPal
+2041,2023-11-16,54,East,Sports,Yoga Mat,1,235,Gift Card
+2042,2023-05-11,56,North,Electronics,Tablet,2,62,Gift Card
+2043,2023-11-03,33,South,Home,Lamp,4,437,Gift Card
+2044,2023-05-15,24,South,Electronics,Headphones,3,364,PayPal
+2045,2023-01-21,52,South,Home,Lamp,3,351,Credit Card
+2046,2023-11-25,11,West,Electronics,Smartphone,1,373,PayPal
+2047,2023-06-16,49,North,Home,Lamp,4,289,Credit Card
+2048,2023-10-01,8,West,Electronics,Headphones,5,90,Credit Card
+2049,2023-03-30,36,West,Sports,Football,3,211,PayPal
+2050,2023-11-12,38,South,Clothing,Jacket,1,167,Credit Card
+2051,2023-01-14,40,South,Electronics,Headphones,5,129,Credit Card
+2052,2023-08-30,20,West,Home,Vacuum,4,68,Gift Card
+2053,2023-09-22,35,North,Sports,Football,3,224,Credit Card
+2054,2023-12-12,48,East,Electronics,Tablet,5,137,PayPal
+2055,2023-02-22,25,West,Electronics,Tablet,5,233,PayPal
+2056,2023-12-06,35,North,Sports,Football,5,218,Credit Card
+2057,2023-04-02,25,South,Electronics,Tablet,3,379,Gift Card
+2058,2023-09-21,29,South,Clothing,Sneakers,3,124,Gift Card
+2059,2023-02-04,18,North,Electronics,Smartphone,2,218,Credit Card
+2060,2023-07-25,46,East,Clothing,Jacket,4,23,Credit Card
+2061,2023-03-22,18,South,Clothing,Sneakers,1,18,PayPal
+2062,2023-02-19,2,South,Sports,Yoga Mat,5,49,Credit Card
+2063,2023-12-26,54,South,Electronics,Headphones,2,459,Gift Card
+2064,2023-01-02,35,North,Sports,Basketball,1,246,Credit Card
+2065,2023-02-23,16,West,Electronics,Tablet,2,290,PayPal
+2066,2023-04-16,41,South,Electronics,Laptop,3,368,PayPal
+2067,2023-09-17,36,West,Home,Blender,5,210,PayPal
+2068,2023-11-06,33,East,Electronics,Laptop,1,255,PayPal
+2069,2023-07-10,4,South,Sports,Yoga Mat,1,287,PayPal
+2070,2023-08-06,33,South,Clothing,Jacket,1,244,Credit Card
+2071,2023-02-13,14,East,Electronics,Smartphone,1,13,Credit Card
+2072,2023-06-11,21,South,Home,Blender,1,163,Credit Card
+2073,2023-07-21,48,West,Sports,Tennis Racket,2,451,Credit Card
+2074,2023-09-27,20,North,Electronics,Tablet,5,38,PayPal
+2075,2023-12-17,56,West,Sports,Tennis Racket,3,118,Gift Card
+2076,2023-10-31,8,North,Home,Blender,3,107,Credit Card
+2077,2023-09-28,7,North,Home,Vacuum,3,224,Gift Card
+2078,2023-08-03,3,West,Sports,Basketball,3,302,Credit Card
+2079,2023-09-09,17,West,Electronics,Laptop,2,84,Credit Card
+2080,2023-07-09,33,West,Clothing,T-Shirt,4,335,Gift Card
+2081,2023-10-23,48,West,Home,Blender,5,155,PayPal
+2082,2023-08-01,12,East,Electronics,Smartphone,1,137,Credit Card
+2083,2023-07-27,59,South,Electronics,Tablet,4,350,Credit Card
+2084,2023-08-25,51,North,Clothing,Jeans,3,51,Credit Card
+2085,2023-12-04,22,West,Home,Vacuum,4,365,Gift Card
+2086,2023-02-22,55,West,Home,Vacuum,5,50,PayPal
+2087,2023-10-07,22,West,Electronics,Smartphone,1,431,Gift Card
+2088,2023-08-05,46,East,Electronics,Laptop,1,43,Gift Card
+2089,2023-09-09,30,West,Clothing,Jeans,5,26,PayPal
+2090,2023-07-07,38,West,Clothing,T-Shirt,5,174,Gift Card
+2091,2023-02-10,38,West,Home,Lamp,3,162,PayPal
+2092,2023-06-06,45,South,Sports,Basketball,1,495,Credit Card
+2093,2023-01-15,51,East,Home,Vacuum,4,387,PayPal
+2094,2023-10-28,54,West,Electronics,Smartphone,2,85,Credit Card
+2095,2023-03-06,8,North,Home,Lamp,2,96,Gift Card
+2096,2023-12-11,27,North,Sports,Basketball,5,126,Gift Card
+2097,2023-11-23,27,North,Clothing,Jeans,3,371,Credit Card
+2098,2023-01-09,34,East,Sports,Yoga Mat,2,351,Gift Card
+2099,2023-12-10,21,East,Sports,Football,1,478,PayPal
+2100,2023-05-09,30,North,Sports,Tennis Racket,5,36,Credit Card
+2101,2023-05-16,33,West,Clothing,Jacket,4,322,Gift Card
+2102,2023-03-04,28,East,Sports,Yoga Mat,5,296,Credit Card
+2103,2023-05-19,47,North,Sports,Football,4,143,PayPal
+2104,2023-03-22,33,North,Sports,Basketball,5,228,PayPal
+2105,2023-06-12,5,West,Electronics,Smartphone,5,177,Gift Card
+2106,2023-10-16,60,South,Sports,Tennis Racket,5,107,PayPal
+2107,2023-09-18,48,East,Clothing,Sneakers,4,277,Credit Card
+2108,2023-08-19,19,West,Sports,Basketball,4,246,PayPal
+2109,2023-02-10,4,North,Sports,Football,5,318,Credit Card
+2110,2023-01-28,35,North,Clothing,T-Shirt,2,464,Credit Card
+2111,2023-05-15,49,West,Sports,Yoga Mat,3,403,PayPal
+2112,2023-07-20,17,East,Clothing,T-Shirt,3,182,Gift Card
+2113,2023-11-24,44,South,Sports,Football,3,410,PayPal
+2114,2023-09-25,28,South,Clothing,Jacket,4,419,Credit Card
+2115,2023-02-02,30,North,Sports,Yoga Mat,4,478,Credit Card
+2116,2023-02-17,29,East,Sports,Yoga Mat,2,485,PayPal
+2117,2023-03-03,46,South,Electronics,Tablet,3,199,Gift Card
+2118,2023-08-04,53,East,Electronics,Laptop,3,131,Gift Card
+2119,2023-10-20,6,East,Sports,Tennis Racket,5,55,Credit Card
+2120,2023-04-09,35,North,Sports,Tennis Racket,4,73,Credit Card
+2121,2023-06-21,60,South,Home,Chair,3,139,Gift Card
+2122,2023-12-26,41,West,Clothing,Jacket,2,319,PayPal
+2123,2023-08-02,37,North,Home,Vacuum,2,372,Credit Card
+2124,2023-02-04,24,South,Electronics,Tablet,3,202,Credit Card
+2125,2023-08-15,29,South,Electronics,Laptop,4,316,Gift Card
+2126,2023-04-11,49,South,Electronics,Smartphone,2,190,PayPal
+2127,2023-05-11,46,South,Electronics,Laptop,5,301,Gift Card
+2128,2023-09-14,53,South,Sports,Tennis Racket,2,380,PayPal
+2129,2023-01-05,31,East,Electronics,Headphones,1,291,PayPal
+2130,2023-08-06,35,North,Sports,Football,1,38,PayPal
+2131,2023-09-12,60,East,Sports,Yoga Mat,4,158,Credit Card
+2132,2023-12-25,33,West,Electronics,Headphones,3,276,Gift Card
+2133,2023-10-10,52,South,Electronics,Headphones,4,305,Gift Card
+2134,2023-07-26,21,North,Clothing,Jacket,4,20,PayPal
+2135,2023-01-15,32,South,Home,Lamp,4,173,Credit Card
+2136,2023-12-12,23,North,Electronics,Laptop,4,122,Credit Card
+2137,2023-02-11,33,East,Clothing,Jacket,5,196,Gift Card
+2138,2023-06-28,3,North,Clothing,Jacket,5,304,Credit Card
+2139,2023-03-04,18,West,Home,Chair,2,241,Credit Card
+2140,2023-12-18,25,West,Sports,Basketball,1,236,PayPal
+2141,2023-08-19,42,North,Electronics,Laptop,4,319,Credit Card
+2142,2023-08-29,31,North,Home,Vacuum,2,107,PayPal
+2143,2023-02-21,54,North,Electronics,Laptop,1,64,Gift Card
+2144,2023-04-06,58,North,Clothing,Jacket,3,120,Credit Card
+2145,2023-08-10,3,West,Clothing,Jacket,5,161,Gift Card
+2146,2023-08-19,40,South,Sports,Yoga Mat,1,255,Gift Card
+2147,2023-08-25,46,North,Clothing,Sneakers,3,415,Credit Card
+2148,2023-05-23,24,North,Clothing,T-Shirt,1,78,Credit Card
+2149,2023-06-20,50,West,Home,Lamp,5,321,Gift Card
+2150,2023-01-29,32,West,Electronics,Smartphone,5,298,Credit Card
+2151,2023-02-05,47,East,Electronics,Tablet,2,259,PayPal
+2152,2023-01-13,22,North,Home,Vacuum,4,45,PayPal
+2153,2023-06-09,23,East,Sports,Yoga Mat,1,248,Credit Card
+2154,2023-11-23,2,West,Electronics,Smartphone,1,157,Gift Card
+2155,2023-07-06,27,West,Clothing,T-Shirt,3,476,Credit Card
+2156,2023-08-31,42,South,Electronics,Headphones,5,236,Credit Card
+2157,2023-03-27,2,North,Clothing,Jeans,1,253,Gift Card
+2158,2023-10-11,26,East,Sports,Tennis Racket,5,346,Gift Card
+2159,2023-03-07,17,West,Home,Vacuum,1,455,PayPal
+2160,2023-06-19,40,West,Electronics,Tablet,2,374,Gift Card
+2161,2023-02-14,33,East,Home,Blender,4,491,PayPal
+2162,2023-03-03,9,South,Electronics,Smartphone,1,210,Gift Card
+2163,2023-05-14,43,West,Clothing,T-Shirt,5,163,Credit Card
+2164,2023-10-11,54,North,Home,Chair,2,459,PayPal
+2165,2023-01-28,48,West,Electronics,Smartphone,1,82,PayPal
+2166,2023-04-18,39,North,Clothing,Sneakers,3,210,PayPal
+2167,2023-02-13,29,East,Home,Vacuum,4,305,Credit Card
+2168,2023-12-06,42,North,Home,Lamp,1,26,Credit Card
+2169,2023-10-13,55,East,Electronics,Smartphone,2,138,Credit Card
+2170,2023-11-27,26,North,Electronics,Smartphone,3,226,Credit Card
+2171,2023-05-08,35,East,Electronics,Laptop,2,70,Credit Card
+2172,2023-12-14,50,North,Clothing,Jacket,2,436,PayPal
+2173,2023-08-19,25,South,Electronics,Tablet,3,113,Credit Card
+2174,2023-07-09,24,North,Home,Lamp,2,51,PayPal
+2175,2023-08-13,13,North,Home,Vacuum,3,34,Credit Card
+2176,2023-10-10,60,South,Electronics,Laptop,1,48,Gift Card
+2177,2023-05-01,58,West,Electronics,Headphones,3,300,PayPal
+2178,2023-04-26,7,West,Sports,Football,3,140,Gift Card
+2179,2023-08-21,57,North,Home,Chair,4,238,PayPal
+2180,2023-09-16,36,South,Clothing,T-Shirt,3,117,Gift Card
+2181,2023-12-25,45,North,Sports,Football,3,181,Credit Card
+2182,2023-07-17,20,East,Electronics,Headphones,1,444,Credit Card
+2183,2023-05-17,1,East,Electronics,Laptop,4,487,Credit Card
+2184,2023-11-14,8,North,Home,Blender,5,111,PayPal
+2185,2023-06-14,46,West,Electronics,Smartphone,1,363,Gift Card
+2186,2023-08-13,16,West,Clothing,Jeans,1,21,Credit Card
+2187,2023-11-03,14,North,Home,Chair,5,284,Gift Card
+2188,2023-08-22,12,North,Electronics,Laptop,3,110,Gift Card
+2189,2023-06-21,51,East,Home,Chair,2,53,Credit Card
+2190,2023-06-01,23,West,Electronics,Laptop,4,452,Credit Card
+2191,2023-11-11,15,North,Electronics,Headphones,2,314,Gift Card
+2192,2023-06-09,28,East,Electronics,Tablet,5,454,Credit Card
+2193,2023-04-06,34,West,Clothing,Jacket,1,26,Credit Card
+2194,2023-08-21,2,South,Clothing,T-Shirt,1,339,Credit Card
+2195,2023-06-29,32,East,Home,Vacuum,4,66,PayPal
+2196,2023-04-23,23,West,Electronics,Smartphone,1,320,Gift Card
+2197,2023-11-14,22,West,Electronics,Smartphone,1,312,Gift Card
+2198,2023-02-21,51,East,Clothing,T-Shirt,4,21,PayPal
+2199,2023-09-25,25,South,Electronics,Smartphone,4,327,Gift Card
+2200,2023-10-22,58,East,Clothing,Jeans,5,89,Credit Card
+2201,2023-04-23,22,West,Electronics,Smartphone,1,225,Gift Card
+2202,2023-04-11,58,North,Home,Vacuum,1,348,Credit Card
+2203,2023-04-23,58,North,Electronics,Laptop,5,273,PayPal
+2204,2023-03-22,22,East,Electronics,Headphones,3,488,Credit Card
+2205,2023-07-06,49,West,Sports,Football,3,158,Gift Card
+2206,2023-04-23,52,North,Clothing,Sneakers,3,90,Gift Card
+2207,2023-01-02,42,West,Electronics,Laptop,5,224,Gift Card
+2208,2023-05-10,6,East,Electronics,Headphones,1,494,PayPal
+2209,2023-08-08,15,North,Sports,Tennis Racket,5,383,PayPal
+2210,2023-02-23,54,West,Sports,Tennis Racket,5,473,Gift Card
+2211,2023-12-09,43,North,Clothing,Jeans,3,207,Credit Card
+2212,2023-08-12,60,East,Sports,Yoga Mat,2,209,PayPal
+2213,2023-08-13,37,West,Home,Chair,1,34,Gift Card
+2214,2023-05-06,33,North,Sports,Yoga Mat,3,475,Gift Card
+2215,2023-05-10,8,East,Home,Blender,2,98,PayPal
+2216,2023-02-22,53,North,Clothing,Jacket,2,277,PayPal
+2217,2023-06-21,60,North,Clothing,Jacket,4,152,PayPal
+2218,2023-08-06,44,South,Clothing,Jacket,1,68,Credit Card
+2219,2023-06-09,44,South,Clothing,Jacket,2,419,Credit Card
+2220,2023-07-17,5,East,Clothing,Sneakers,3,498,Gift Card
+2221,2023-09-04,39,South,Home,Blender,4,374,PayPal
+2222,2023-11-20,4,East,Home,Chair,1,35,Credit Card
+2223,2023-07-22,6,South,Clothing,Sneakers,5,56,PayPal
+2224,2023-07-03,45,North,Sports,Yoga Mat,3,297,Gift Card
+2225,2023-05-03,32,East,Electronics,Laptop,2,275,Credit Card
+2226,2023-09-12,52,East,Clothing,Jeans,2,25,Credit Card
+2227,2023-10-21,30,North,Sports,Football,3,208,Credit Card
+2228,2023-10-07,47,East,Electronics,Tablet,2,410,Gift Card
+2229,2023-11-21,35,East,Clothing,Jacket,4,416,PayPal
+2230,2023-04-08,55,South,Clothing,Sneakers,1,291,Credit Card
+2231,2023-07-17,40,East,Home,Lamp,4,478,Gift Card
+2232,2023-08-28,52,West,Electronics,Laptop,2,95,PayPal
+2233,2023-05-24,16,North,Electronics,Laptop,5,259,Gift Card
+2234,2023-04-07,13,South,Sports,Basketball,1,400,PayPal
+2235,2023-07-20,50,South,Home,Vacuum,1,279,Gift Card
+2236,2023-05-04,60,West,Home,Chair,3,344,PayPal
+2237,2023-07-06,42,North,Home,Vacuum,3,126,Credit Card
+2238,2023-11-22,30,North,Home,Lamp,5,16,PayPal
+2239,2023-12-15,19,South,Electronics,Laptop,1,146,Gift Card
+2240,2023-09-16,17,East,Electronics,Smartphone,5,380,Gift Card
+2241,2023-05-28,56,South,Clothing,Jeans,3,185,PayPal
+2242,2023-09-09,19,North,Clothing,Jacket,3,337,Credit Card
+2243,2023-12-12,28,West,Home,Lamp,1,324,Credit Card
+2244,2023-05-27,58,South,Home,Chair,4,224,PayPal
+2245,2023-05-28,55,North,Home,Vacuum,2,486,PayPal
+2246,2023-12-18,26,South,Clothing,Jacket,3,91,Gift Card
+2247,2023-07-18,37,East,Sports,Basketball,3,232,Credit Card
+2248,2023-11-04,26,South,Sports,Football,4,487,PayPal
+2249,2023-05-08,53,South,Clothing,T-Shirt,4,381,Credit Card
+2250,2023-02-08,23,North,Clothing,Jeans,5,432,PayPal
