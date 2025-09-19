@@ -75,7 +75,7 @@ Build interactive dashboards (e.g., with Tableau or Power BI).
 
 Expand portfolio with additional datasets (HR, marketing, finance).
 
-👩‍💻 Author
+👩🏻‍💻 Author
 
 Luz Ramirez
 Aspiring Data Analyst | Skilled in Python, Pandas, SQL, and Data Visualization
